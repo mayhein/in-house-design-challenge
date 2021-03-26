@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# MOCTO Coding it Forward Exercise
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Thank you so much for your interest in joining the MOCTO team! Please kindly go through this exercise and send your submissions over to racastillo@cto.nyc.gov
 
-## Available Scripts
+## Exercise Mechanics
+Please accomplish this exercise before your scheduled interview. We will have a portion in the interview where we will be discussing your exercise submission.
 
-In the project directory, you can run:
+Exercise is as follows:
 
-### `yarn start`
+1. We have sent you an invitation to access a github repository named at github.com/nyc-cto/coding-it-forward. Please clone this project and create a repository in your own github account with the name “MOCTO-CIF“ at the end of this exercise, we will ask you to send the link to that repository, we’d love it if you send it in the form https://github.com/<your username>/mocto-cif
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. The application is a bare bones login page. We would like you to make the page functional. Only allowing user with username “mocto” with password “HelloCodingItForward!” to log in, with anyone else disallowed from going to the next page. There are no next page provided in the code, we would need you to create a page where the application will redirect if the correct username and password was submitted. 
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. We would love you to also accomplish any of the following:
+    
+    * Make it interactive. Create listeners to the textboxes and make sure an event and validation is fired when the person using the application clicks “Login.”
+    * Make it user-centered. Add texts, design, or however you want to change the look and feel of the page.
+    * Make it accessible. The page could still be navigable with a screen reader.
+    * Make it responsive. The application looks correct on different screens and devices.
 
-### `yarn build`
+Note: You don’t have to do all 4 of the items we have mentioned. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Once you’ve finished this exercise, please send your accomplished repository to racastillo@cto.nyc.gov with the subject “<Name> - MOCTO/CodingItForward Exercise” we will review this and will look forward to chatting with you about your work!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

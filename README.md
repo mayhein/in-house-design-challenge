@@ -7,7 +7,7 @@ Please accomplish this exercise before your scheduled interview. We will have a 
 
 Exercise is as follows:
 
-1. We have sent you an invitation to access a github repository named at github.com/nyc-cto/coding-it-forward. Please clone this project and create a repository in your own github account with the name “MOCTO-CIF“ at the end of this exercise, we will ask you to send the link to that repository, we’d love it if you send it in the form https://github.com/<your username>/mocto-cif
+1. We have sent you an invitation to access a github repository named at github.com/nyc-cto/coding-it-forward. Please clone this project and create a repository in your own github account with the name “MOCTO-CIF“ at the end of this exercise, we will ask you to send the link to that repository, we’d love it if you send it in the form `https://github.com/<your username>/mocto-cif`
 
 
 2. The application is a bare bones login page. We would like you to make the page functional. Only allowing user with username “mocto” with password “HelloCodingItForward!” to log in, with anyone else disallowed from going to the next page. There are no next page provided in the code, we would need you to create a page where the application will redirect if the correct username and password was submitted. 

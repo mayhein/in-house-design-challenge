@@ -3,7 +3,7 @@
 Thank you so much for your interest in taking part on helping MoCTO produce our In House Design module! Please kindly go through this exercise and send your submissions over to racastillo@cto.nyc.gov
 
 ## Exercise Mechanics
-Please accomplish this exercise no later than Thursday 12pm ET. We will have a portion in the interview where we will be discussing your exercise submission.
+Please accomplish this exercise no later than Thursday, Jun 3, 12pm ET. We will have a portion in the interview where we will be discussing your exercise submission.
 
 Exercise is as follows:
 

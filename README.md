@@ -10,9 +10,8 @@ Exercise is as follows:
 1. We have sent you an invitation to access a github repository named at github.com/nyc-cto/in-house-design-challenge . Please clone this project and create a repository in your own github account with the name “MOCTO-CIF“ at the end of this exercise, we will ask you to send the link to that repository, we’d love it if you send it in the form `https://github.com/<your username>/in-house-design-challenge`
 
 
-2. The application is a bare bones login page. We would like you to make the page mock-functional. Please kindly style the page in a sass file, based on the following house style (the measurements do not need to be exact):
+2. The application is a bare bones login page. We would like you to make the page mock-functional. Please kindly style the page in a sass file, based on the following house style for the button (the measurements do not need to be exact):
 
-![Screen Shot 2021-06-01 at 3 23 10 PM](https://user-images.githubusercontent.com/60367956/120379325-96ebb700-c2ed-11eb-97f7-a4d514adddbe.png)
 ![Screen Shot 2021-06-01 at 3 21 43 PM](https://user-images.githubusercontent.com/60367956/120379327-96ebb700-c2ed-11eb-9bf4-91d7d786f4f8.png)
 
    

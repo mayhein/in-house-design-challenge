@@ -36,6 +36,11 @@ export default function ResetPassword() {
           </p>
 
           <Button type="submit">Reset password</Button>
+          <p>
+            <a href="/" title="Return To Sign In">
+              Return to sign in
+            </a>
+          </p>
         </Fieldset>
       </Form>
     </GridContainer>
